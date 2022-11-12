@@ -1,0 +1,14 @@
+# IBM-Project-29875-1660132122
+Emerging Methods for Early Detection of Forest Fires
+ 
+  TEAM LEADER
+    
+    ABISHEK N [714019106005]
+  
+  TEAM MEMBERS 
+    
+    DHANUSHREE R [714019106020]
+   
+    JEGADEESH R [714019106039]
+   
+    KAVINRAJ K P [714019106045]
